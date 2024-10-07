@@ -1,11 +1,50 @@
 <h1 align="center">Hi 👋,<br> I'm Dilshod Axmadov</h1>
 <h3 align="center">Data analyst ✨</h3>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/dilshod-axmadov-a6917b2b2/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilshod Axmadov" height="30" width="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DilshodAxmadov&show_icons=true&theme=radical" alt="Dilshod's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DilshodAxmadov&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on **data analysis projects**
+- 🌱 I’m currently learning **Machine Learning** and **Data Science tools**
+- 💬 Ask me about **data analytics, Python, and SQL**
+- 📫 How to reach me: [axmadovdilshod777@gmail.com](mailto:axmadovdilshod777@gmail.com)
+- ⚡ Fun fact: I love solving complex data problems and exploring new data visualization tools!
+
+---
+
+### 🚀 Skills:
+- **Languages**: Python, SQL
+- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn
+- **Tools**: Excel, Power BI, Jupyter Notebook, Google Analytics
+- **Database**: PostgreSQL, Microsoft SQL Server
+- **Other**: Git
+
+---
+
+### 📊 GitHub Activity:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilshodAxmadov&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Connect with Me:
+<p align="center">
+<a href="https://www.linkedin.com/in/dilshod-axmadov-a6917b2b2/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilshod Axmadov" height="30" width="40" />
 </a>
+<a href="https://t.me/Axmadov_Dilshod" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" />
+</a>
+</p>
     
 <a href="https://t.me/Axmadov_Dilshod" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" />
