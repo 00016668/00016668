@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋,<br> I'm Akhror Abdurazzoqov</h1>
-<h3 align="center">Flutter developer from Uzbekistan ✨</h3>
+<h1 align="center">Hi 👋,<br> I'm Dilshod Axmadov</h1>
+<h3 align="center">Data analyst ✨</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
