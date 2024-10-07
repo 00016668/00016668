@@ -2,11 +2,11 @@
 <h3 align="center">Data analyst ✨</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DilshodAxmadov&show_icons=true&theme=radical" alt="Dilshod's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=00016668&show_icons=true&theme=radical" alt="Dilshod's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DilshodAxmadov&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=00016668&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Activity:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DilshodAxmadov&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00016668&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -45,11 +45,7 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" />
 </a>
 </p>
-    
-<a href="https://t.me/Axmadov_Dilshod" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" />
-</a>
-</p>
+  
 <br>
 
 <div> 
